@@ -8,6 +8,7 @@ Re-inforcement Learning:
 
 Open AI Blog:
 * https://blog.openai.com/openai-gym-beta/
+
 Open AI Gym Beta:
 * https://blog.openai.com/openai-gym-beta/
 
