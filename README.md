@@ -3,7 +3,7 @@ Materials related to deep learning
 
 Re-inforcement Learning:
 
-* Deep RL Bootcamp videos:
+Deep RL Bootcamp videos:
 * https://sites.google.com/view/deep-rl-bootcamp/lectures
 
 Open AI Blog:
