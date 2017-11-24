@@ -1,6 +1,16 @@
+# Machine Learning
+
+Advanced Machine Learning Specialization (Coursera)
+* https://www.coursera.org/specializations/aml
+
 # Deeplearning:
 
-Materials related to deep learning
+Fast AI Course by Jeremy Howard:
+* http://course.fast.ai/
+
+Deep Learning Specializaiton (Coursera)
+* https://www.coursera.org/specializations/deep-learning
+
 
 # Re-inforcement Learning:
 
