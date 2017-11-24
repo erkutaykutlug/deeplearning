@@ -1,7 +1,8 @@
-# deeplearning-materials
+# Deeplearning:
+
 Materials related to deep learning
 
-Re-inforcement Learning:
+# Re-inforcement Learning:
 
 Deep RL Bootcamp videos:
 * https://sites.google.com/view/deep-rl-bootcamp/lectures
