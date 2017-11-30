@@ -17,9 +17,8 @@ Deep Learning Specializaiton (Coursera)
 Deep RL Bootcamp videos:
 * https://sites.google.com/view/deep-rl-bootcamp/lectures
 
-Open AI Blog:
-* https://blog.openai.com/
-
-Open AI Gym Beta:
-* https://blog.openai.com/openai-gym-beta/
+Open AI:
+* Blog: https://blog.openai.com/
+* Gym: https://blog.openai.com/openai-gym-beta/
+* github: https://github.com/openai
 
