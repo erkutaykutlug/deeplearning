@@ -5,7 +5,7 @@ Advanced Machine Learning Specialization (Coursera)
 
 # Deeplearning:
 
-Fast AI Course by Jeremy Howard:
+Fast-AI Courses:
 * http://course.fast.ai/
 
 Deep Learning Specializaiton (Coursera)
